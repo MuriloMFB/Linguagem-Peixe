@@ -55,7 +55,6 @@ class TipoToken(Enum):
     INICIO = auto()             # inicio
     FIM = auto()                # fim
 
-    NEBULA = auto()      # nebula - comando de consulta ao banco
 
     # Fim de arquivo
     EOF = auto()
